@@ -2,6 +2,7 @@
 *.log
 *.tmp
 *.swp
+*.swo
 
 # System files
 .DS_Store
@@ -17,3 +18,11 @@ Thumbs.db
 
 # Backups
 *~
+*.bak
+*.backup
+
+# Sensitive files
+*.env
+secrets.sh
+passwords.txt
+EOF
