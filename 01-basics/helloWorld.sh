@@ -4,7 +4,7 @@
 # Fountain: Securiters Academy
 ################################################
 
-set - euo pipefail
+set -eu
 
 # Print simple message
 echo "Hello World"
